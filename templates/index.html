@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='bootstrap.css') }}">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='bootstrap.js') }}"></script>
+        <title>Faculty Update Machine</title>
+
+    </head>
+    <body>
+
+
+        <nav class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">Faculty Update Machine</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Update <span class="sr-only">(current)</span></a></li>
+                <li><a href="/new">New</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    {% for person in people %}
+                        <li><a href="/{{person.id}}">{{person.name}}</a></li>
+                    {% endfor %}
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+        <div class="container">
+        <h1>Faculty update machine</h1>
+
+
+         <div class="container">
+
+             <br>
+            <form action="/update" method="POST">
+                <div class="row">
+                    <div class="col-md-3">
+                        <img class="img-responsive" src="http://bschool.howard.edu/go/about/faculty/images/profiles/{{ prof.id }}.jpg">
+                    </div>
+                    <div class="col-md-9">
+                        <div class="row">
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="id">ID</label>
+                                    <input type="text" class="form-control" id="id" name=id aria-describedby="id" placeholder="Faculty id" value="{{ prof.id }}">
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="tags">Tags</label>
+                                    <input type="text" class="form-control" id="tags" name=tags aria-describedby="tabs" placeholder="Tags" value="{{ prof.tags }}">
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" class="form-control" id="name" name=name placeholder="Faculty name" value="{{ prof.name }}">
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="email">Room</label>
+                                    <input type="text" class="form-control" id="room" name=room placeholder="Room #" value="{{ prof.room }}">
+                                  </div>
+                            </div>
+                            <div class="col-md-6">
+                                 <div class="form-group">
+                                    <label for="role">Role</label>
+                                    <input type="text" class="form-control" id="role" name=role placeholder="Faculty role" value="{{ prof.role }}">
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="department">Department</label>
+                                    <select name="department" id="department" class="form-control">
+                                        <option value="{{ prof.department }}">{{ prof.department }} </option>
+                                        <option value="Accounting">Accounting</option>
+                                        <option value="Finance & International Business">Finance & International Business</option>
+                                        <option value="Information Systems & Supply Chain Management">Information Systems & Supply Chain Management</option>
+                                        <option value="Management">Management</option>
+                                        <option value="Marketing">Marketing</option>
+                                    </select>
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="email">Email</label>
+                                    <input type="email" class="form-control" id="email" name=email value="{{ prof.email }}" placeholder="Faculty email" value="{{ prof.email }}">
+                                  </div>
+
+                                  <div class="form-group">
+                                    <label for="phone">Phone #</label>
+                                    <input type="text" class="form-control" id="phone" name=phone placeholder="Room #" value="{{ prof.phone }}">
+                                  </div>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                          <div class="form-group">
+                            <label for="name">Office Hours</label>
+                            <input type="text" class="form-control" id="office" name=office placeholder="Office hours" value="{{ prof.office }}">
+                          </div>
+                          <div class="form-group">
+                            <label for="name">Biography</label>
+                            <textarea class="form-control" id="biography" name=biography rows="4">{{ prof.biography }}</textarea>
+                          </div>
+
+                          <div class="form-group">
+                            <label for="education">Education</label>
+                            <textarea class="form-control" id="education" name=education rows="4" >{{ prof.education | join('\n') }}</textarea>
+                          </div>
+
+                          <div class="form-group">
+                            <label for="courses_taught">Courses Taught</label>
+                            <textarea class="form-control" id="courses_taught" name=courses_taught rows="4" >{{ prof.courses_taught | join('\n') }}</textarea>
+                          </div>
+
+                          <div class="form-group">
+                            <label for="selected_research">Selected Research</label>
+                            <textarea class="form-control" id="selected_research" name=selected_research rows="4">{{ prof.selected_research | join('\n') }}</textarea>
+                          </div>
+
+                          <div class="form-group">
+                            <label for="areas_of_expertise">Areas of Expertise</label>
+                            <textarea class="form-control" id="areas_of_expertise" name=areas_of_expertise rows="4">{{ prof.areas_of_expertise | join('\n') }}</textarea>
+                          </div>
+
+                          <div class="form-group">
+                            <label for="areas_of_expertise">Awards</label>
+                            <textarea class="form-control" id="awards" name=awards rows="4">{{ prof.awards | join('\n') }}</textarea>
+                          </div>
+
+                          <button type="submit" class="btn btn-primary btn-lg btn-block">Update</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+
+        </div>
+
+        <br><br><br><br><br>
+
+
+    </body>
+</html>

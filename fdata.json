@@ -1,0 +1,954 @@
+{
+    "people": [
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Angela Tidwell joined the Information Systems & Decision Sciences department in 2011. She was formerly employed at General Motors where she worked as an Industrial Engineer, Material Management Supervisor and Project Manager.",
+            "courses_taught": [],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [],
+            "email": "angela.tidwell@howard.edu",
+            "id": "atidwell",
+            "name": "Angela L. Tidwell PhD",
+            "phone": "(202) 806-1647",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Debby Lindsey-Taliefero, Ph.D. is an Associate Professor of Economics in the Department of Finance at Howard University. Her research efforts have focused on mortgage finance including foreclosures, delinquencies, and regulatory compliance; fair lending, and financial literacy.<br> <br> Dr. Lindsey-Taliefero has served as Project Manager for the Freddie Mac's CreditSmart Curriculum for Howard University. The CreditSmart project sheds light on minority group credit issues and has produced reports on credit behavior, focus groups, a national survey analyzing African American credit behavior, and a consumer credit education curriculum used at Howard University. In addition, she conducts student financial literacy surveys annually dating back to 2002 to assess students' financial literacy needs and knowledge. Her credit research is cited in 2002 congressional testimony before the U.S. Senate Hearing on The State Financial Literacy and Education in America.<br> <br> Dr. Lindsey-Taliefero served as an expert witness in a federal lawsuit in Tennessee on behalf of African-American plaintiffs alleging discrimination in automobile financing. Two major reports were produced by Dr. Lindsey-Taliefero, which lead to class action lawsuits settlements against Nissan Motors Acceptance Corporation and General Motors Acceptance Corporation. Her reports were featured or cited on ABC 20/20, in the New York Times, Washington Post, and in Department of Justice's Amicus brief in supporting the plaintiffs in the auto finance litigation. Nissan Motors Corporation Acceptance settled out of court in March of 2003 and the ramification of subsequence settlements radically improved pricing outcomes for minority borrowers.<br> <br> Dr. Lindsey-Taliefero has published in the Journal of Business & Economics Research, Journal of the Academy of Economics and Finance, Journal of Finance Case Research, Journal of Studies in Economics and Finance, Journal of Marketing Theory and Practice, Journal of Research on Minority Affairs, International Advances in Economic Research, Mortgage Banking Magazine, CRA Bulletin and numerous conference proceedings. She currently serves as advisor to the Mortgage Lending Industry: Strategic Market and Diversity Conference, Research Associate for the Center of Race and Wealth, and Advisor of the Golden Key International Honour Society.<br> <br> Prior to joining the faculty at Howard University, Dr. Lindsey-Taliefero worked as an Economist at Analytic Services, Inc. (Anser), the Federal Emergency Management Agency (FEMA), the National Urban League, and the Washington Bureau of the NAACP.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "",
+            "id": "dtaliefero",
+            "name": "Debby Lindsey-Taliefero Ph.D.",
+            "phone": "",
+            "role": "Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "James Haddow is the Director of the Center for Excellence in Supply Chain Management (CESUM) and a professor in the School of Business at Howard University in Washington DC. Currently, Mr. Haddow teaches a range of supply chain management courses to both undergraduate and graduate level students. He also supports student teams as faculty advisor during supply chain case competitions and participates in various CESCM activities (e.g., Thursday Think Tanks, Corporate Advisory Board, Site Visits, etc.). <br><br> Mr. Haddow has previously held positions as Director of Global Procurement and a Supply Chain consultant for A.T. Kearney a global consulting firm, Cost and Financial Analyst at the Interstate Commerce Commission and Safeway Stores, Inc. His 30 years of consulting and industry experience encompass global procurement, supply chain management, business planning and commercial business development which provides real world teaching examples for his students.",
+            "courses_taught": [
+                "Supply Chain Integration (Undergraduate Capstone) & Global Supply Chain Management (MBA Capstone)",
+                "Negotiations (Undergraduate & MBA)",
+                "Procurement (Undergraduate & MBA)",
+                "IT in Supply Chain Management (Undergradaute & MBA)",
+                "Logistics (Undergraduate & MBA)"
+            ],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [],
+            "email": "james.haddow@howard.edu",
+            "id": "jhaddow",
+            "name": "James Haddow MBA",
+            "phone": "(202) 806-1604",
+            "role": "Director of the Center for Excellence in Supply Chain Management",
+            "room": "Room 452",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [
+                "Energy policy",
+                "Innovation management",
+                "Technology management",
+                "Environmental engineering",
+                "New Product Development"
+            ],
+            "awards": [
+                "Howard University Exemplary Teaching Award",
+                "COBIS Society Outstanding Professor / Teacher of the Year",
+                "Awarded US Patent: US6681508B2, Visual Display Device"
+            ],
+            "biography": "Dr. Unger joined the faculty of Howard University in 2004 after completing his doctorate at the Massachusetts Institute of Technology (M.I.T.) and teaching at the Asian Institute of Technology (A.I.T) in Thailand  He has earned multiple teaching awards from both faculty and students for his dynamic teaching.  Outside of Howard University, Dr. Unger is a Montgomery County Firefighter and Emergency Medical Technician.  He has also served as chair of the Montgomery County American Civil Liberties Union (ACLU), Progressive Neighbors, and as President of the Silver Spring Advisory Board.  He lives in Silver Spring, Maryland with his wife and 3 children.",
+            "courses_taught": [
+                "Innovation and Technology Management",
+                "Project Management",
+                "Quantitative Business Analysis",
+                "Production and Operations Management",
+                "Business Problem Solving"
+            ],
+            "department": "Information Systems and Supply Chain Management",
+            "education": [
+                "Ph.D., Engineering Systems Management and Policy, M.I.T., 2003",
+                "M.S. Environmental Engineering, M.I.T., 1999",
+                "B.S., Engineering, Swarthmore College, 1995"
+            ],
+            "email": "DWUnger@Howard.edu",
+            "id": "dunger",
+            "name": "Darian Unger Ph.D.",
+            "office": "Spring 2018 Semester: T/Th 12:30-2:00pm,  F 1:30-4:30",
+            "phone": "202-806-1656",
+            "role": "Associate Professor",
+            "room": "",
+            "selected_research": [
+                "Modern innovation management theory and the evolving US lighting industry, Journal of Management History",
+                "Comparing Product Development Processes and Managing Risk,  International Journal of Product Development",
+                "Improving Product Development Process Design:  A Method for Managing Information Flows, Risks, and Iterations, Journal of Engineering Design",
+                "Business Education Innovation: How Common Exams Can Improve University Teaching,\u201d American Journal of Business Education",
+                "Sharing and Guarding Information: Managing Data Security in Supply Chain Networks, Alliance Journal of Business Research",
+                "Comparing Product Development Processes and Managing Risk, International Journal of Product Development",
+                "Correlations Demonstrating the Importance of the Free Flow of Information: The Role of National Religious Freedom in Business Competitiveness, Washington Business Research Journal"
+            ],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. Maryam Khan holds a Ph.D. in Hospitality and Tourism Management from Virginia Tech, the terminal degree one can attain in the field. She is internationally known as an expert and as an educator in the field, a reputation that she has brought to Howard. BesidesDepartment of Management teaching, she is also involved in research, paper and chapter publication, refereed presentation, student advising, curriculum development, school committees, outreach activities, professional development, industry workshops, technological advancement, and other administrative activities to bring her experiences to the classroom and enhance the Hospitality Management Program. She has taught several hospitality and management courses at Howard University. Some of these courses are: Introduction to Hospitality Management, Food service Management, Lodging and Facility Management, Hospitality Marketing, Hotel, Motel and Restaurant Management, Convention and Meeting Management, Food Cost Control, and Management of Organization Behavior. She has published and presented more than fifty research papers in internationally known journals and meetings. Her research focus on customer service, minority issues, technology, current events and environmental concerns relating to lodging, foodservice, and meeting planning. She is a recipient of several academic and industry grants. She has worked at local, national, and international levels and tried to fulfill Howard University's vision of serving the global community.",
+            "courses_taught": [],
+            "department": "Management / Director",
+            "education": [],
+            "email": "mkhan@howard.edu",
+            "id": "mkhan",
+            "name": "Maryam Khan Ph.D. ",
+            "phone": "(202) 806-1535",
+            "role": "Associate Professor",
+            "room": "Room 553",
+            "selected_research": []
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Raymond D. Smith holds an MBA (1981) and PhD (1988) from the Robert H. Smith School of Business at the University of Maryland, College Park. He has won two national awards for his research and has consulted for various organizations including the Ford Motor Company, The US Small Business Administration and the Kauffman Center for Entrepreneurship. His published works have dealt with such topics as strategic management of motor carriers, minority entrepreneurship and business ethics and social responsibility. He has published over 20 journal articles that range from conceptual works on ethics and market function to empirical works focusing on the strategic behavior of large groups of firms, minority entrepreneurs' management practices and ethical attitudes among religious and non-religious managers. His analytic techniques have included factor analysis, discriminant analysis, latent profile analysis and other sophisticated techniques of multivariate statistics. Some of the courses he has taught include: Strategic Management, Management and Organization Theory as well as Logistics and Supply Chain management at both the graduate and undergraduate level.<strong>Research</strong>Smith, R.; Corsi and Grimm;  Motor Carrier Strategies and Performance, Transportation Research Series A, Vol. 24A, no. 3, pp 201-210, 1990Smith, R.; Roberson-Saunders, P.; Fanara, P. The Impacts of 8(a) Program on Minority Firm Development and Growth Journal of Developmental Entrepreneurship. Spring 2004(Won John Jack Best Paper Award at the United States Association for Small Business and Entrepreneurship Annual Meeting, Myrtle Beach, SC 2003)Roberson-Saunders, P. and Smith, R.  Gender Differences in Minority Firm Hiring Practices and Customer Patronage Developmental Entrepreneurship 5<sup>th</sup> ed. ; C. Stiles; C. Galbraith Eds. , Elsevier Press, London, 2006Smith, R. The Value of Charity in a World of Profit Maximization Journal of Human Values, Vol. 14, no. 1, 49-63, Spring 2008; (17<sup>th</sup> highest ranked article based on online access in the 18 year history of the journal)Smith, R. A Study in Stakeholder Management: Sears in the Great Depression, GITAM Journal of Management, Vol.7, no.2, Fall 2009Smith, R. An Analysis of the Role of Greed in the Ongoing Global Financial Meltdown Journal of Human Values, Vol. 16, no. 1, 2010Smith, R. Debt Slavery and the Loss of Freedom accepted Sept, 2011 by the<br />Journal of Human Values http://jhv.sagepub.com/content/current. Vol. 18, no. 2, 2012Smith, R., Debode, J, and Walker A. The Influence of Age, Theism and Gender on Ethical Judgments, The Journal of Management, Spirituality and Religion. Forthcoming 2013.&nbsp;",
+            "courses_taught": [],
+            "department": "Management",
+            "education": [],
+            "email": "raysmith@howard.edu",
+            "id": "rsmith",
+            "name": "Raymond D. Smith PhD",
+            "phone": "(202) 806-1520",
+            "role": " Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "management"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Harmeling holds a doctorate in entrepreneurship and business ethics from the University of Virginia and undergraduate and graduate degrees from Harvard College and Harvard Business School. Her research interests include entrepreneurship education, entrepreneurial contingency and the intersection of innovation and ethics. She is also an expert on the case method of instruction and has written dozens of case studies on entrepreneurs and their ventures for the Harvard Business School and as an independent consultant in her own private company, the International Case Method Institute. She is an instructor in the Harvard Business School Publishing case method program.<br>",
+            "courses_taught": [],
+            "department": "Management",
+            "education": [],
+            "email": "sharmeling@howard.edu",
+            "id": "sharmeling",
+            "name": "Susan S. Harmeling Ph.D. ",
+            "phone": "(202) 806-1586",
+            "role": "Associate Professor",
+            "room": "Room 558",
+            "selected_research": [],
+            "tags": "management"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Melvin C. Washington, PhD is an assistant professor of business and management communication. Dr. Washington received his PhD in Organizational Communication from Howard University in 2004. He is the core course coordinator for the business communication course in the School of Business.",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "M_C_washington@howard.edu",
+            "id": "mwashington",
+            "name": "Melvin Charles Washington, PhD",
+            "phone": "(202) 806-1554",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. Lynne Kelly joined the Department of Finance, International Business, and Insurance in 2006, after serving as Senior Development Engineer at the Dow Chemical Company where she provided technical service and product development support for customers in North, Central, and South America. Her primary research areas of interest include: International Real Estate Investment, and Mutual Fund Performance. She has taught: Managerial Economics and Finance. Kelly holds a PhD in Finance from George Washington University, Washington DC, an MBA from Ohio State University, Columbus Ohio, and a BS in Mechanical Engineering from Carnegie Mellon University, Pittsburgh, PA.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "ljkelly@howard.edu",
+            "id": "lkelly",
+            "name": "Lynne Kelly",
+            "phone": "(202) 806-1658",
+            "role": "Associate Professor",
+            "room": "Room 529",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "efua.obeng@howard.edu",
+            "id": "eobeng",
+            "name": "E.B. Obeng Ph.D. ",
+            "phone": "(202)8061676",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "         Dr. Daniel N. Owunwanne joined the Department of Information Systems &amp; Decision Sciences in 2003, after serving as Adjunct Professor at the University of         the District of Columbia, Washington DC, and Instructor at Elizabeth City State University, NC.         <strong>Research Interest:</strong> His primary research areas of interest include: Data Interoperability in Federated Distributed Database Systems, Software         Implemented Fault Tolerance, Error Detection in Data Transmission, and Cloud Computing.         <strong>Awards:</strong> His awards include: Software Engineering Certificate from Georgia State University; Computer Science Fellowship from NASA, Langley         Research Center in Hampton, Virginia; 2006-2007 Professor of the Year Certificate; Certificate of Special Congressional Recognition; and The U.S. President's 2007         Volunteer Service Award.         <strong>Professional Membership:</strong> Dr. Owunwanne is a member of a number of professional organizations which include: Interface of North America and         Classification Society of North America, International Digital Business Academy, Virginia Academy of Science, Association of Computing Machinery, Special Interest         Group on Computer Graphics, and National Association of Mathematics.         <strong>Courses Taught:</strong> He has taught: Database Management, Systems Analysis and Design, Information Structures, Management Information Systems,         Computer Introduction, Software Design, Data Communications, C++, and Java Programming Language.         <strong>Education:</strong> Dr. Owunwanne holds a Ph.D. from George Mason University, VA; M.S. from Howard University, Washington DC; and B.S. from State         University College, Buffalo, NY.         <strong>Research Publications</strong> (Five Most Recent Ones):         <ul>             <li>Owunwanne, Daniel; Goel, Rajni (2010), Radio Frequency Identification (RFID) Technology: Gaining A Competitive Value Through Cloud Computing.             International Journal of Management and Information Systems (IJMIS), Vol. 14, No. 4, 4<sup>th</sup>Quarter, 2010.</li>             <li>Owunwanne, Daniel; Okoro, Ephraim; Quasem, Mohammad (2010); Managing and Promoting Diversity in Educational Environment: Evaluation of Faculty Presence             and Equity Participation. International Journal of Effective Management (IJEM), Vol. 7, No. 1, June 2010.</li>             <li>Owunwanne, Daniel (2010), An Analysis of the Effectiveness of Error Detection in Data Transmission Using Polynomial Code Method. International Journal of             Management and Information Systems (IJMIS), Vol. 14, No. 2, 2<sup>nd</sup>Quarter, May 2010.</li>             <li>Owunwanne, Daniel (2009), The Importance of Software Implemented Fault Tolerance in Highly Reliable Systems. Washington Business Research Journal (WBRJ),             Vol. 1, No. 1, December 2009.</li>             <li>Owunwanne, Daniel (2009), Information Sharing In Homogeneous Federation of Databases And Performance Assessment, International Journal of Effective             Management, Vol. 6, No. 1, June 2009.</li>         </ul>",
+            "courses_taught": [],
+            "department": "Information Systems and Supply Chain Managment",
+            "education": [],
+            "email": "",
+            "id": "dowunwanne",
+            "name": "Daniel N. Owunwanne Ph.D.",
+            "phone": "",
+            "role": "Asssociate Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [
+                "Race and Ethnicity in the IT Sector",
+                "Qualitative and Quantitative Research Methods",
+                "Diversity and Social Inclusion in the IT Sector",
+                "Human Computer Interaction"
+            ],
+            "biography": "Dr. Curtis Cain's expertise focuses on the cultural and societal influences impacting the participation of minority groups in technology and engineering fields. He has experience in both quantitative and qualitative research methodology and has published journal articles using both. He employs a teaching pedagogy that heavily emphasizes practicality and project-based learning. He enjoys teaching courses that depict the influence of people, and technology firms, on IT and the impact of IT on individuals, organizations and society. Dr. Cain believes in the value of diversity, not only in traditional aspects, such as ethnicity, race and gender, but also in diversity of thought and social inclusion. Dr. Cain also taught Software Engineering to the inaugural cohort of Howard West students at Google's corporate headquarters in Mountain View, CA. His professional experience extends well beyond the classroom and academia, as he has held various positions in industry, where he has been asked to improve inefficiencies throughout organizations. Lastly, Dr. Cain believes in the value of advising. He strongly believes in assisting students excel in the personal and professional goals.",
+            "courses_taught": [
+                "Management Information Systems",
+                "Quantitative Business Analysis",
+                "Software Engineering"
+            ],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [
+                "Ph.D., Information Sciences and Technology, The Pennsylvania State University, College of Information Sciences and Technology, University Park, PA, 2016 ",
+                "M.S., Computer Science and Software Engineering, Auburn University, Samuel Ginn College of Engineering, Department of Computer Science and Software Engineering, Auburn, AL, 2010",
+                "B.S., Information Systems Engineering, Johnson C. Smith University, College of Computer Science and Engineering, Charlotte, NC, 2008"
+            ],
+            "email": "Curtis.Cain@Howard.edu",
+            "id": "ccain",
+            "name": "Curtis C. Cain Ph.D.",
+            "phone": "202-806-1552",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": [
+                "Curtis C. Cain and Eileen Trauth. 2017. Black Men in IT: Theorizing an Autoethnography of a Black Man's Journey into IT within the United States of America. SIGMIS Database 48, 2 (April 2017), 35-51. DOI: https://doi.org/10.1145/3084179.3084184",
+                "Eileen M. Trauth, Curtis C. Cain, K.D. Joshi, Lynette Kvasny, and Kayla M. Booth. 2016. The Influence of Gender-Ethnic Intersectionality on Gender Stereotypes about IT Skills and Knowledge. SIGMIS Database 47, 3 (August 2016), 9-39. DOI: https://doi.org/10.1145/2980783.2980785",
+                "Curtis C. Cain and Eileen M. Trauth. 2016. Black Lives Matter: The Journey of a Black IT Scholar. In Proceedings of the 2016 ACM SIGMIS Conference on Computers and People Research (SIGMIS-CPR '16). ACM, New York, NY, USA, 83-86. DOI: http://dx.doi.org/10.1145/2890602.2890623",
+                "Cain, C.C., Trauth, E.M. (2015). \"Theorizing the Underrepresentation of Black Males in Information Technology (IT),\" Proceedings of the 21th Americas Conference on Information Systems (Puerto Rico)."
+            ],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Lim is an Assistant Professor in Accounting. She has taught both the traditional face to face class and the online class. Her research interests are in auditing, financial market, and minorities in the accounting field. She has her bachelor degree from Universitas Airlangga, an MBA and Ph.D. from the George Washington University.",
+            "courses_taught": [],
+            "department": " Accounting",
+            "education": [],
+            "email": "lucy.lim@howard.edu",
+            "id": "llim",
+            "name": "Lucy Lim Ph.D",
+            "phone": "(202) 806-1581",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": []
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "",
+            "courses_taught": [],
+            "department": "Executive Program",
+            "education": [],
+            "email": "",
+            "id": "kwells",
+            "name": "Kim Wells",
+            "phone": "",
+            "role": "Director of Executive Programs",
+            "room": "",
+            "selected_research": []
+        },
+        {
+            "areas_of_expertise": [
+                "Corporate Finance",
+                "Financial Markets and Institutions",
+                "International Finance",
+                "Investments"
+            ],
+            "biography": "Dr. Denise W. Streeter joined the Department of Finance & International Business in 2015 after serving on the faculty at The Pennsylvania State University's York and World Campuses and as Chief Financial Officer (CFO) at National 4-H Council.  She has taught accounting and finance courses to students of all ages, in various formats, at both the undergraduate and graduate levels, and on three continents. <br><br>She has received a number of awards and distinctions including Certified Public Accountant (CPA) in 1986 and is completing the series of exams for the Chartered Financial Analyst (CFA) designation. Dr. Streeter also was recognized as an Alumni Exemplar of the Howard University School of Business (2015), Outstanding Woman of 4-H (2007), and is listed in Who's Who among Black Americans (1991) for her research on the First 100 Black CPAs. <br><br>She and her husband, Chris, are now in the role of \u201ccoach\u201d to their three young adults, one daughter-in-law, and one grandchild.",
+            "courses_taught": [
+                "Finance Principles",
+                "Principles of Investments",
+                "Financial Management (MBA)",
+                "Investment Analysis and Portfolio Management (MBA)"
+            ],
+            "department": "",
+            "education": [
+                "Ph.D.; Finance; Old Dominion University; Norfolk, Virginia; 2013",
+                "MA; Economics; Old Dominion University; Norfolk, Virginia; 2012",
+                "MS; Finance; The Johns Hopkins University; Baltimore, Maryland; 2005",
+                "BBA; Accounting (magna cum laude); Howard University; Washington, DC; 1984"
+            ],
+            "email": "denise.streeter@howard.edu",
+            "id": "dstreeter",
+            "name": "Denise W. Streeter Ph.D., CPA",
+            "phone": "202-806-1531",
+            "role": "Assistant Professor, Finance & International Business",
+            "room": "Room 529",
+            "selected_research": [
+                "A Study of the Lead-Lag Relationship between Price Change and Trading Volume in the Futures Markets using High-Frequency Data (2015). International Journal of Bonds and Derivatives, 1(4), 284-301, with Benton, J., Dondeti, R., and Najand, M.",
+                "Overcoming Barriers: Early African-American Certified Public Accountants (Chapter 12) (2012) In R. K. Fleischman, W. N. Funnell, & S. Walker (Eds.), Critical Histories of Accounting: Sinister Inscriptions in the Modern Era. United Kingdom: Routledge, Taylor & Francis Group, with Hammond T. A.",
+                "The History of Black Accountancy: The First 100 Black CPAs (1990), Washington, DC: National Association of Black Accountants.",
+                "The Relationship of Central Bank Foreign Currency Reserves, Stock Market Capitalization, & GDP, with Etta-Nkwelle, M. (Working paper)",
+                "The Response of Commercial Banks to Credit Stimuli (Working paper)",
+                "The Deterministic Characteristics of Borrowers versus Requesters of Commercial Loans (Working paper)"
+            ],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [
+                "Insurance Market Structure",
+                "Performance and Efficiency",
+                "Liquidity Creation",
+                "Advertising Impact",
+                "International Insurance"
+            ],
+            "awards": [
+                "Outstanding Service Award, Center for Insurance Education Board 2016",
+                "Best in Track Award, Academy of Finance, 2007",
+                "New Faculty Research Award, Howard University, 2004 ",
+                "Dissertation Research Award, Temple University, 2001"
+            ],
+            "biography": "Dr. B. Paul Choi joined the Department of Finance, International Business and Insurance in 2002, after serving as Instructor at Temple University, Philadelphia, PA. His primary research areas of interest include: Insurance Market Structure, Performance and Efficiency, and International Insurance. Choi has received a number of awards and distinctions including Chartered Property Casualty Underwriter (CPCU) 2001, Best in Track Award at 2007 Academy of Finance, and several research grants. Choi has served as Faculty Advisor of Gamma Iota Sigma, Director of Summer Actuarial Program and Instructor of Actuarial Study Program. He is also currently serving as a director of Center for Insurance Education. Choi holds a Ph.D. from Temple University, Philadelphia, PA.",
+            "courses_taught": [
+                "Finance Principles",
+                "Risk and Insurance",
+                "Life and Health Insurance",
+                "Property Liability Insurance",
+                "Risk Management"
+            ],
+            "department": "Finance & International Business",
+            "education": [
+                "Ph.D., Risk Management and Insurance, Temple University, Philadelphia, 2002",
+                "MS, Risk Management and Insurance, Georgia State University, Atlanta, 1997",
+                "BS, International Trade, Hankuk University of Foreign Studies, Seoul, 1991"
+            ],
+            "email": "bchoi@howard.edu",
+            "id": "bchoi",
+            "name": "B. Paul Choi Ph.D., CPCU",
+            "office": "10:00 ~ 11:00 am, 2:00 ~ 3:30 pm on Tuesday & Thursday, 10:00 am ~ 2:00 pm on Friday",
+            "phone": "(202) 806-1532",
+            "role": "Associate Professor & Chair of Finance and International Business",
+            "room": "Room 524",
+            "selected_research": [
+                "\"Liquidity Transformation: An Examination of U.S. Life Insurers,\" with J. Park and C. Ho, Managerial Finance, 2016",
+                "\"Liquidity Creation or De-creation: Evidence from U.S. Property and Liability Insurance Industry,\" with J. Park and C. Ho, Managerial Finance, 2013",
+                "\"Foreign-Owned Insurer Performance in the U.S. Property-Liability Markets,\" with E. Elyasiani, Applied Economics, 2011",
+                "\"Distribution System Choice in a Service Industry: An Analysis of International Insurance Firms Operating in the United States,\" with Parente, Slangen, and Ketkar, Journal of International Management, 2010",
+                "\"The U.S. Property and Liability Insurance Industry: Firm Growth, Size and Age,\" Risk Management and Insurance Review, 2010",
+                "\"State Regulation and the Structure, Conduct, Efficiency, and Performance of U.S. Auto Insurers,\" with Mary A. Weiss, Journal of Banking and Finance. 2008",
+                "\"An Empirical Investigation of Market Structure, Efficiency, and Performance in Property-Liability Insurance,\" with Mary A. Weiss, The Journal of Risk and Insurance, 2005"
+            ],
+            "tags": "finance chair"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. Jin-Gil Jeong is a Professor of Finance at the Howard University School of Business in Washington, DC. He joined its Department of Finance and International Business in 1995 after working as lecturer/instructor for MBA and undergraduate courses at the Smith School of Business at University of Maryland, College Park, where he received his Ph.D. in Finance in 1994. He has taught Finance courses such as International Financial Management, Investments and Portfolio Analysis, Financial Management and Financial Derivatives.<br> <br> Dr. Jeong worked as an Economist at the Bank of Korea, the central bank of Korea, from 1979 to 1983, and as an International Trade Coordinator for an international trading company that specialized in the oil and fishery business, after completing his MBA program at University of Alaska, Anchorage in 1985.<br> <br> He has received a number of awards and distinctions including the commendation award from the Vice Prime Minister of Economic Planning and Finance of Korea, and the Best Paper Award at the 5th Annual Global Finance Conference held in Mexico City, Mexico. Dr. Jeong also won a prestigious Fulbright Scholar award and work as visiting professor/research fellow at Seoul National University, his alma mater, for July-December, 2011.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "jjeong@howard.edu",
+            "id": "jjeong",
+            "name": "Jin-Gil Jeong Ph.D.",
+            "phone": "(202) 806-1657",
+            "role": "Professor",
+            "room": "Room 520",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "",
+            "courses_taught": [],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [],
+            "email": "anupam.kumar@howard.edu",
+            "id": "akumar",
+            "name": "Anupam Kumar, Ph.D. ",
+            "phone": "(202) 806-1603",
+            "role": "Assistant Professor",
+            "room": "Room 440",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. Price joined the Department of Finance, International Business and Insurance in Fall 2006. He teaches courses in Financial Management, Finance Principles, Real Estate/Housing Finance, and Financial Markets/Institutions. He holds a B.S. in Civil Engineering from Cornell University in Ithaca, NY and a Ph.D. in Finance from The Florida State University in Tallahassee, FL. His research interests include real estate finance, asset pricing, valuation, mutual funds, mortgage pricing and REITs. His research has been presented at meetings of the American Real Estate Society, American Real Estate Urban Economics Association, Financial Management Association, Florida Education Fund, PhD Project Doctoral Students Association, Southern Finance Association, and Southwestern Finance Association. His research appears in the Journal of Real Estate Research. He has been certified by the National Development Council as a Housing Finance Professional. Dr. Price has worked for the Consortium for Central Harlem Development and Turner Construction Company as a Financial Analyst, Financial Systems Analyst and Project Manager. He is a member of the American Finance Association, American Real Estate Society, American Real Estate Urban Economics Association, Financial Management Association, Southern Finance Association, Southwestern Finance Association and Western Finance Association. He is also an academic member of the National Association of Real Estate Investment Trusts (NAREIT) and the National Council of Real Estate Investment Fiduciaries (NCREIF). <strong>Research</strong> Brent, William, Kelly, Lynne, Lindsey-Taliafero, Debby and Price, Russell M., 2011; NAV and Risk: The Case of REITs, <em>Journal of Business and Economic Research,</em> Vol.9, No. 7, pp. 31-42. Brent, William, Kelly, Lynne, Lindsey-Taliafero, Debby and Price, Russell M., 2011; Determinants of Mortgage Delinquency, <em>Journal of Business and Economic Research,</em> Vol. 9, No. 2, pp. 27-48. Brent, William, Kelly, Lynne, Lindsey-Taliafero, Debby and Price, Russell M., 2010; U. S. Mortgage Foreclosures: An Analysis by State, <em>Academy of Economics and Finance Journal,</em> Vol. 1, No. 1, 2010; pp. 17-30. Price, Russell M., 2009; REIT Holdings and Performance, <em>Journal of Real Estate Portfolio Management</em>, Vol. 15, No. 1, pp. 33-44. Friday, H. Swint, Price, Russell M., and Sirmans, G. Stacy., 2006; Do Management Changes Matter: An Empirical Investigation of REIT Performance, <em>Journal of Real Estate Research,</em> Vol. 26, No. 2, pp. 131-148.",
+            "courses_taught": [],
+            "department": "Finance and International Business",
+            "education": [],
+            "email": "r.price@howard.edu",
+            "id": "rprice",
+            "name": "Russell Price Ph.D.",
+            "phone": "(202) 806-1639",
+            "role": "Associate Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. William Barbee joined the Department of Finance, International Business and Insurance in 1975, after serving as Financial Analyst, Morgan Guaranty Trust Company, New York, Financial Consultant at the Federal Reserve Bank of New York, Assistant Professor of Finance and Economics at University of Maryland Eastern Shore, Marketing Research and Analyst at the United States Steele Corporation, Pittsburg, PA, and Instructor at Montgomery College, Takoma Park, Maryland. His primary research areas of interest include: Cycles: Theory and Empirical Evidence, Application of Financial Statement and Valuation Criteria for the Estimation of Future Common Stock Returns, and Technical Analysis of the Financial Markets. Barbee is the founder of the Finance and Investment Club at Howard University. He has taught: Principles of Finance, Business Finance, Managerial Finance, Principles of Personal Financial Planning, Principles of Investments, Seminar in Finance, Business Fluctuations and Forecasting, and Managerial Economics.<br> <br> HDr. Barbee has also developed and taught Principles of Personal Financial Planning as an initial preparation for the Chartered Financial Consultant and Chartered Life Underwriter designation, and other courses in preparation for the Chartered Market Technician designation and the NASD Series 7 Examination.<br> <br> Barbee holds a Ph.D. from the Catholic University of America, Washington, DC, an MAT from the University of Massachusetts, Amherst, and a BA (honors) from the University of Maryland, College Park.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "wbarbee@howard.edu",
+            "id": "wbarbee",
+            "name": "William Barbee Ph.D.",
+            "phone": "(202) 806-1594",
+            "role": "Associate Professor",
+            "room": "Room 517",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Masoud Kavoossi is currently a tenured Professor who teaches international business, international business strategy and International Management at Howard University in Washington. He has had graduate and undergraduate appointments at American University, Washington, DC; Sellinger School of Business, Loyola University, Baltimore, Maryland, George Washington University, Washington DC. R.H. Smith School of Business University of Maryland as well as Int'l visiting posts. Holder of Fulbright Johaness Kepler Distinguished Chair Professor of IB <br>Distinguished University Chair Professor of International Business, Shandong Institute of Business and Technology (SIBT) P.R.China.<br>Distinguished University Chair Professor of International Business, South Western University of Finance Economics (SWUFE), P.R. China.<br>Recipient of A. W. Mellon, Endowed Lectureship at the American University of Paris. Salzburg Seminar Fellow-Salzburg, Austria.<br>Dr. Kavoossi received his Ph.D. from the Catholic University of America in Washington DC. MA from American University, Washington. DC. BA in International Affairs from Bowie State University, Bowie, Maryland. His areas of specialization include international business issues pertaining to the Middle East, with an emphasis on the Persian Gulf business environment. He has served as the Guest Editor of a number of publications, including, the International Journal of Commerce and Management, and as an Editorial Board Member of the Journal of Global Business and Competitiveness Review:An International Business Journal and on The Editorial Board and Book Review Editor, Journal of Asia-Pacific Business, Taylor & Francis Publishing.<br><br>Dr. Kavoossi is a frequent contributor to a number of books on international business. His articles have been published in European Journal of Management, Journal of Teaching in International Business, Business Economics, the Journal of Business and Economic Studies, Journal of International Consumer Marketing,Foreign Trade magazine. Professor Kavoossi is interviewed by the Christian Science Monitor, the National Public Radio and other international media. He has presented papers at the World Bank, and as international consultant.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "mkavoossi@howard.edu",
+            "id": "mkavoossi",
+            "name": "Masoud Kavoossi, Ph.D ",
+            "phone": "(202) 806-1567",
+            "role": "Fulbright-Johaness Kepler Distinguished Chair Professor",
+            "room": "Room 522",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [
+                "Tax accounting",
+                "Accounting",
+                "Audit"
+            ],
+            "biography": "Dr. Anderson specializes in liquidity and capital markets, market anomalies and market efficiency. Dr. Anderson earned his Ph.D. from Rutgers University in 2013. Between 2007 and 2013 he was an Instructor at Rutgers University. Between 1989 and 2007 he worked in the profession as a bond trader for Bear Stearns and Company, Millennium Securities Brokerage and Hapoalim Securities.",
+            "courses_taught": [
+                "Financial Accounting (Graduate) GACC 500",
+                "Management Accounting (Graduate) GACC 501",
+                "Accounting for Executives XACC500"
+            ],
+            "department": "Accounting",
+            "education": [
+                "Rutgers Business School, Rutgers University, Ph.D., Accounting",
+                "Kellogg School of Management, Northwestern University Master of Management, Accounting and Finance",
+                "Dartmouth College, Bachelor of Arts, English"
+            ],
+            "email": "anthony.anderson@howard.edu",
+            "id": "aanderson",
+            "name": "Anthony Anderson Ph.D.",
+            "phone": "202-806-1587",
+            "role": "Assistant Professor",
+            "room": "Room 334",
+            "selected_research": [
+                "Research Interests: Liquidity and Capital Markets, Pricing of Accounting Information, Market Anomaly, Market Efficiency, Accounting Regulation.",
+                "Explaining the On-The-Run Puzzle: Implications for Financial Reporting. Spring 2015.",
+                "Evidence on Lack of Liquidity for Small Public Firms, Journal of Business Valuation and Economic Loss Analysis. Volume 7, Issue 1, Pages\u201c, ISSN (Online) 1932-9156, DOI: 10.1515/1932-9156.1111, June 2012"
+            ],
+            "tags": "accounting"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Sandip Mukherji is a Professor of Finance and Director of the Center for Financial Services in the School of Business at Howard University. He teaches graduate and undergraduate courses in financial modeling and financial analysis, oversees the Simulation, Learning, and Research Lab, organizes annual Wall Street on Campus financial strategy education seminars, conducts Trading Challenges for students each semester, and chairs the Faculty Development and Teaching Committee. His academic qualifications include B.A. (Economics honors), M.A. (Comparative Literature, gold medal), M.B.A. and Ph.D. in Finance, and CFA designation.<br><br>He has 12 years of banking experience, having worked in middle-management positions in a large commercial bank and in the central bank of India. He has been awarded a Morgan Stanley Foundation Research Fellowship and worked on three-month summer assignments at Goldman Sachs (twice), Bank of New York (twice), and Cooper\u2019s & Lybrand, besides working as a consultant for Goldman Sachs. He has also participated in a 3-day finance workshop at Wharton and Merrill Lynch, and a 4-day executive education program on valuation at Harvard University. <br><br>In 23 years at Howard University, Dr. Mukherji has presented 26 research papers at national and international conferences, and published 41 research papers on investments, corporate finance, and education, in 21 refereed journals, including 10 papers in 4 practitioner journals. His research papers have been cited in top journals, such as Journal of Financial Economics and Journal of Finance, as well as in popular magazines \u0336 Forbes and Smart Money. He has won a Quality Research Award from Global Finance Journal and a teaching award from graduate students for \u201cexceptional classroom instruction.\u201d He delivered the keynote speech at the 2008 International Business and Management Research conference in Hawaii.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "smukherji@howard.edu",
+            "id": "smukherji",
+            "name": "Sandip Mukherji, Ph.D., CFA ",
+            "phone": "(202) 806-1591",
+            "role": "Professor",
+            "room": "Room 525",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Ephraim Okoro is an associate professor in the Department of Marketing, School of Business, Howard University, Washington, D.C. He teaches business communication, marketing communication, strategic communication, marketing communication,and principles of marketing. He earned an MBA in Marketing from Southeastern University and a PhD in Communications from Howard University, respectively. Formerly administrative dean and professor of marketing at Southeastern University, Dr. Ephraim Okoro has taught at the University of Maryland University College, George Washington University\u2019s Executive Program, Strayer University, the University of the District of Columbia, Central Michigan University, and Bowie State University, respectively. His primary research interests focus on strategic business communication, political communication, cross-cultural communication and workforce diversity, and global marketing and consumer behavior. His current research probes the interface between intercultural communication and organizational effectiveness and productivity.<br><br>He has authored book chapters, book reviews, and conference/research proceedings. He has also authored and co-authored articles in peer-reviewed journals, including Business Communication Quarterly, Journal of Innovative Marketing, China-USA Business Review, Journal of College Teaching and Learning, Journal of International Marketing and Exporting, the International Journal of Nigerian Studies and Development, etc. Dr. Okoro is a member of the Association for Business Communication, Eastern Communication Association, Association for Education in Journalism and Mass Communications, Political Science Association, Association for Supervision and Curriculum Development, African Studies Association, and the Organizational Development Institute. He attends professional/academic conferences and presents papers in communications and marketing disciplines.",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "eaokoro@howard.edu",
+            "id": "eokoro",
+            "name": "Ephraim Okoro MBA, PhD ",
+            "phone": "202-806-1545",
+            "role": "Associate Professor",
+            "room": "Room 300",
+            "selected_research": [],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [
+                "Auditing",
+                "Taxation",
+                "Financial Statement Preperation and Analysis",
+                "Accounting Information Systems",
+                "Attestations and Reviews"
+            ],
+            "awards": [
+                ""
+            ],
+            "biography": "\"James Hodge, an adjunct professor in the Department of Accounting, joined the School of Business faculty in Fall 2012, where he teaches upper-level undergraduate and graduate accounting courses. In addition to his role at Howard University, Professor Hodge also serves as an adjunct instructor at Montgomery College and for Becker Professional Education. He is a Certified Public Accountant (CPA), Certified Fraud Examiner (CFE), and Certified Government Financial Manager (CGFM) and received both his undergraduate and graduate business degrees from the University of Dayton. \r\n \r\nProfessor Hodge is currently the Director of Financial Statement Audits at the Department of Treasury's Office of Inspector General where he is responsible for overseeing financial statement audits, performance audits, evaluations, and attestation engagements. Prior to joining the federal government, Professor Hodge worked as an auditor for PricewaterhouseCoopers (PwC) in their Washington Federal practice, advising federal entities on how to solve complex organizational issues, manage risk, and add value in financial and program management, operations improvement, and security and data management. \r\n\r\nAs an active member of the accounting and auditing community, Professor Hodge has served in numerous leadership roles with the National Association of Black Accountants (NABA) on the local and regional level. He also serves as a Quality Assurance Supervisor at three Internal Revenue Service (IRS) Volunteer Income Tax Assistance (VITA) sites in DC, which includes the Howard University program, where he oversees tax preparation and financial literacy services provided to low and moderate-income families free of charge.\"",
+            "courses_taught": [
+                "Governmental Accounting (Graduate) MACC 508",
+                "Government & Not-for-Profit Accounting (Undergraduate) ACCT 360",
+                "Accounting Information Systems (Undergraduate) ACCT 350",
+                "Advanced Accounting (Undergraduate) ACCT 330",
+                "Cost Accounting I (Undergraduate) ACCT 320"
+            ],
+            "department": "Accounting",
+            "education": [
+                ""
+            ],
+            "email": "james.hodge@howard.edu",
+            "id": "jhodge",
+            "name": "James Hodge CFE, CPA",
+            "office": "",
+            "phone": "202-596-1730",
+            "role": "Instructor",
+            "room": "",
+            "selected_research": [
+                ""
+            ],
+            "tags": "accounting"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Philemon Oyewole has been teaching in the department of marketing of the School of Business since the Fall of 1995. Prior to joining the Howard University faculty, he was a consultant with the World Bank for close to five years where he participated in several UN/World Bank projects. <strong>Areas of Expertise</strong> His areas of expertise are in services marketing, international marketing, macro marketing, and measures of consumer satisfaction. <strong>Education</strong> Ph.D. (1993), Marketing major, University of Aix-Marseille III, France.<br> M.Phil. (1988) Marketing major, University of Aix-Marseille III, France.<br> M.B.A. (1984) Marketing major, University of Ife, Nigeria.<br> B.Sc. (1981) Demography and Social Statistics, University of Ife, Nigeria. <strong>Courses Taught</strong> Marketing research, Services marketing, Principles of marketing, and Retailing. <strong>Publications</strong> Oyewole, Philemon, Muthulashmi Sankaran and Pravat Choudhury. 2011). Children's influence on parental purchase decisions in Malaysia, Innovative Marketing, Vol. 6, No.4, pp. 8-16. Oyewole, Philemon. 2010). Country segmentation of the international tourism market using propensity to travel and to spend abroad, Journal of Global Marketing, Vol. 23, No. 2; pp. 152-168. Oyewole, Philemon. 2009. A focus group study of factors affecting students' choice of HBCUs: Implications for marketing strategies, Washington Business Research Journal, Vol. 1, No.1, pp. 1-12. Oyewole, Philemon. 2009. Prospects for Latin America and Caribbean Region in the global market for international tourism: A projection to the year 2020, Journal of Travel and Tourism Marketing, Vol.26, No.1, pp. 42-59.",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "Poyewole@howard.edu",
+            "id": "poyewole",
+            "name": "Philemon O. Oyewole Ph.D. ",
+            "phone": "(202) 806-1651",
+            "role": "Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Frank K. Ross is currently the Director of the Howard University School of Business Center for Accounting Education and a Visiting Professor of Accounting teaching Auditing and Ethics.In December, 2003, he retired from KPMG LLP after providing over thirty-eight years of service. Prior to retiring, he was the Mid-Atlantic Area Managing Partner for Audit and Risk Advisory Services and Managing Partner of the Washington DC office. Frank was also a member of KPMG's Board of Directors and the Chairman of the Board of the KPMG Foundation. In 1968, Frank was one of the nine co-founders and the first President of the National Association of Black Accountants (NABA). Frank is a graduate of Long Island University where he earned a Bachelors of Science degree in Accounting and an MBA degree. He received the Distinguished Alumni Award from Long Island University in 1998 and an Honorary Doctors of Humane Letters in 2001. He was the first graduate of their School of Business, Public Administration and Information Services to be so honored by the University. In 2004, the University of the District of Columbia also awarded Frank an Honorary Doctors of Humane letters. In October 2008, Accounting Today named Frank to its 2008 list of the 100 Most Influential People in Accounting. Also in October 2008, Diversity Edge named Frank to its 2008 list of 20 National Diversity Champions. Frank has also written a book about his life as an immigrant and successful certified public accountant (CPA) entitled, Quiet Guys Can Do Great Things, Too: A Black Accountant's Success Story. The book, which features a foreword written by former Time Warner Inc. Chairman and CEO Richard D. Parsons, is a classic and triumphant American tale; a parable of how one man's awe and inspiration at life's possibilities was not thwarted or halted by the darker realities of racism, segregation and discrimination. All proceeds from the sale of the book are earmarked for scholarships for accounting students. Frank is currently a member on the Board of Directors of the following corporations: Pepco Holdings, Inc. (Chair of Audit Committee and member of the Human Resources Committee) and Cohen &amp; Steers Mutual Funds Group (Chair of Audit Committee). He was formerly a member of the board of NCRIC Group, Inc. (member of Audit Committee and the Governance Committee). He was also formerly a member of the Board of Trustees of Gallaudet University. In addition, he currently serves on the board of the following not-for-profit organizations: Hoop Dreams Scholarship Fund, Inc. (Chairman of the Board), The Greater Washington Urban League (Treasurer), and the Howard University Chartered Middle School for Mathematics and Science (Treasurer).",
+            "courses_taught": [],
+            "department": "Accounting/ Director of the Center for Accounting",
+            "education": [],
+            "email": "",
+            "id": "fross",
+            "name": "Frank K. Ross ",
+            "phone": "",
+            "role": "Professor (Visiting)",
+            "room": "",
+            "selected_research": [],
+            "tags": "accounting"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Jide Iwarere joined the Department of Finance, International Business, and Insurance in 1986, after serving as Marketing Officer, Construction Financing, Citibank Lecturer, Applied and Managerial Economics at Kwara State College of Technology, Ilorin, Nigeria. Prior to that, he was a Revenue Officer, Ministry of Finance, Kano State; Assistant Marketing Operations Planning Manager (1974-76) and subsequently Sales Statistics Manager (1976-77) at Lever Brothers Nigeria Ltd. His primary research areas of interest include: Race and Residential Mortgage Financing Decisions, Market Behavior in Emergent Land Markets, Site Selection and Location Analysis, Valuation of Power Plants in the Context of Privatization, and Contingency Evaluation and Social Impact Analysis of Electric Power System. His publications span this gamut, of which some are noted below. He has taught Real Estate Finance and Investments, Real Estate Principles, Real Estate Development, Financial Management, Bond Markets, and Finance Principles. Iwarere, holds a Ph.D. in Business Administration (Real Estate and Finance) from the University of Georgia, an M.S. in Business (Real Estate and Investment Analysis) from the University of Wisconsin Madison, and a BSc in Economics from the University of Ibadan.",
+            "courses_taught": [],
+            "department": "Finance & International Business & Real Estate",
+            "education": [],
+            "email": "liwarere@howard.edu",
+            "id": "liwarere",
+            "name": "L. Jide Iwarere Ph.D. ",
+            "phone": "(202) 806-1634",
+            "role": "Associate Professor",
+            "room": "Room 518",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Denver D\u2019Rozario is a Professor of Marketing, Department of Marketing, School of Business, Howard University. He has been at Howard University since the Fall of 1996. He has a Bachelor\u2019s degree in Chemical Engineering from the University of Madras (1983), an MBA from Illinois State University (1987) and a PhD from the Leonard N. Stern School of Business, at New York University (1992). From the Fall of 1990 to the Spring of 1996, he was an Assistant Professor of Marketing in the Fox School of Business and Management at Temple University. His research interests include international (cross-cultural) marketing, ethnic marketing, nostalgia-based marketing, the use of dead celebrities in marketing and psychometric issues in marketing, among other areas. He has won several competitive teaching awards as well as several competitive research and teaching grants and fellowships. <br><br>He has published over three dozen papers in various Journals, including the Journal of Advertising, Journal of Consumer Marketing, Journal of Consumer Psychology, Journal of Immigrant and Refugee Services, Journal of International Consumer Marketing, Journal of International Food and Agribusiness Marketing, Journal of Macro-marketing, Journal of Marketing Management, Journal of Advances in Consumer Research, the American Marketing Association\u2019s Summer Educators\u2019 Conference Proceedings and the Marketing and Public Policy Conference Proceedings and the Academy of International Business\u2019 Annual Conference Proceedings, among others. A research area that he pioneered the investigation of in Marketing, namely \u201cRetail-Redlining\u201d, has now been listed in Wikipedia. He has reviewed for several Journals, Conferences and Publishers in the field of Marketing. He has also done consulting work for several Companies, Non-profit Organizations and Federal Government Agencies, including the Ford Motor Company and the Social Security Administration, among others. He &/or his work have been quoted in several news media, including ABC (Channel 7 News), NBC (Channel 4 News), BET\u2019s National (11:00 p.m.) News, The Washington Times, The Wall Street Journal, Black Enterprise Magazine, The Pantagraph, The Greenbelt News Review, The Dispatch, the Indian Express and Hindu newspapers, Educational Games Researchand Bankruptcy News, among others.",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "ddrozario@howard.edu",
+            "id": "ddrozario",
+            "name": "Denver D'Rozario Ph.D. ",
+            "office": "2:00-3:30 & 5:00-6:00 p.m., Tue, Thurs.",
+            "phone": "(202) 806-1646",
+            "role": "Professor",
+            "room": "Room 336",
+            "selected_research": [],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [
+                "Audit rotation",
+                "Auditor Independence",
+                "Audit Quality",
+                "Judgement and Decision Making of Auditors and Financial Statement Users"
+            ],
+            "biography": "Dr. Mayse joined the faculty at Howard University in the Fall 2015. His research focuses on the judgment and decision making of auditors and financial statement users concerning audit standard setting and regulation. His research appears in the Journal of Business and Economic Perspectives, Journal of Leadership, Accountability and Ethics, and the Journal of Finance and Accountancy. Dr. Mayse teaches Cost Accounting and Accounting Principles II. He is currently the Accounting Principles I and II Coordinator. Dr. Mayse is a CPA. He is a member of the American Accounting Association (AAA), the American Institute of CPAs (AICPA), the PhD Project, and the National Association of Black Accountants (NABA).",
+            "courses_taught": [
+                "Accounting Principles II",
+                "Cost Accounting"
+            ],
+            "department": "Accounting",
+            "education": [
+                "Ph.D., Accounting, Jackson State University, Jackson, Mississippi, 2014",
+                "M.P.A., Accounting, Jackson State University, Jackson, Mississippi, 2007",
+                "B.B.A., Finance, University of Mississippi, University, Mississippi, 2005"
+            ],
+            "email": "adrian.mayse@howard.edu",
+            "id": "amayse",
+            "name": "Adrian L. Mayse Ph.D., CPA",
+            "phone": "",
+            "role": "Assistant Professor",
+            "room": "",
+            "selected_research": [
+                "Mayse, A. L., Daniels, B. W., & Ellis, Y. 2016. Perceptions of independence and auditor rotation: An examination of nonprofit organizations. Journal of Finance and Accountancy, 20.",
+                "Mayse, A. L. & Daniels, B. 2015. The effects of corporate governance and auditor rotation on CEO/CFOs\u2019 perceptions of auditor Independence and financial statement reliability: Evidence from nonprofit organizations. Journal of Leadership, Accountability, and Ethics, 12 (4): 82-92.",
+                "Mayse, A. L., Booker, Q., & Hill, C. Spring/Summer 2015. An examination of audit partner and audit firm rotation policies for private companies: CPAs\u2019 perceptions, Journal of Business and Economic Perspectives, 41 (2): 73-90."
+            ],
+            "tags": "accounting"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Anthony Wilbon\u2019s expertise is in strategic technology management. He is also a certified Project Management Professional (PMP). Particular areas of research include technology strategy, quantitative analysis, information technology, and technology innovation and entrepreneurship. Research in sustainable environmental engineering through the integration of social, environmental, and economic considerations into systems design methods has also been explored through funded NOAA research projects. Dr. Wilbon has previously held positions at organizations such as the Board of Governors of the Federal Reserve System and Booz Allen and Hamilton. His professional experience and capabilities extend to business, management, and technology related topics including systems application and technology, production and operations management, project management, systems development life cycle, and research methodology (quantitative and qualitative).",
+            "courses_taught": [],
+            "department": "Information Systems and Supply Chain Management",
+            "education": [],
+            "email": "anthony.wilbon@howard.edu",
+            "id": "awilbon",
+            "name": "Anthony D. Wilbon Ph.D.",
+            "phone": "202-806-1608",
+            "role": "Associate Dean for Academic Affairs and Administration",
+            "room": "",
+            "selected_research": [],
+            "tags": "infosys administration"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Mr. Paschall, a native of Washington, D.C., completed his high school education at the St. Albans School for Boys in 1973. He then attended the University of Virginia, where he double majored in Psychology and Sociology and received the B.A. with highest distinction in 1977. He was also a member of Phi Beta Kappa and a senior resident in the University's Resident Staff Program. Mr. Paschall enrolled later that year in Harvard Law School, where he completed the J.D. degree in 1980. While at Harvard, Mr. Paschall was a member of the Civil Rights\u2013Civil Liberties Law Review and participated in an exchange program with the Boalt Hall School of Law at the University of California, Berkeley. Mr. Paschall began teaching at Howard University three months after his graduation from Harvard and shortly thereafter became a member of the District of Columbia Bar. He has published numerous articles, ranging from educational assessment to the legal liability of accountants, and holds a number of memberships in national legal associations and organizations. Taught through the case method, his legal courses stress the analytical reasoning concepts developed in a law school curriculum. Mr. Paschall has been recognized as an Outstanding Teacher in the School of Business on several occasions. Mr. Paschall also has served in a number of administrative positions in the School. As the Associate Dean, he is responsible for a range of assessment and continuous improvement activities. He also serves as the lead writer for accreditation projects, including faculty development, curriculum review and assessment, and those associated with the Association to Advance Collegiate Schools of Business \u2013 International. In his spare time, Mr. Paschall has participated in regional tennis tournaments, cycling, and running events and has volunteered for a variety of community service organizations.                        </div>                    </div>",
+            "courses_taught": [],
+            "department": "Accounting",
+            "education": [],
+            "email": "spaschall@howard.edu",
+            "id": "spaschall",
+            "name": "Samuel Paschall",
+            "phone": "(202) 806-1577",
+            "role": "Associate Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "administration management"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Yuvay Jeanine Meyers is currently on faculty at Howard University's School of Business in the department of Marketing. Dr. Meyers graduated with honors from HowardUniversity with a Bachelors degree in International Business Marketing and then went on to American University to obtain a Masters in Public Communications. Before returning to graduate school, she worked in advertising for a couple of years with clients such as the American Red Cross and BellSouth. Dr. Meyers completed her Ph.D. in Advertising at the University of Texas at Austin. Currently, she is a tenure track Assistant Professor of Marketing. Her research interests focus on representation of Blacks in advertising and their consumer behavior in the marketplace.",
+            "courses_taught": [],
+            "department": "Marketing",
+            "education": [],
+            "email": "yferguson@howard.edu",
+            "id": "ymeyers",
+            "name": "Yuvay Meyers Ferguson, Ph.D.",
+            "phone": "(202) 806-1555",
+            "role": "Associate Professor / Department Chair",
+            "room": "Room 335",
+            "selected_research": [],
+            "tags": "marketing chair"
+        },
+        {
+            "areas_of_expertise": [
+                "Information/Cyber Security",
+                "Business Case for Diversity in STEM",
+                "Application Security",
+                "Cloud and Social Media Security",
+                "Railway Security"
+            ],
+            "biography": "Dr. Rajni Goel is a Professor and Former Chair of the Information Systems and Supply Chain Management Department in the School of Business at Howard University.  Dr. Goel served as a Fulbright-Nehru Scholar conducting research and assisting in curriculum development in the area of Cyber security in India in 2016. She holds a Ph.D. in IT (Dissertation in Information Security) from George Mason University, VA, an M.S. (Mathematics), and a B.A. (Mathematics) and began her career as a High School Mathematics teacher.  <br><br> Upon joining Howard, she significantly impacted the establishment of the Cyber Security curriculum and research at the University.  She has developed new teaching pedagogy in experiential learning and is distance learning certified.",
+            "courses_taught": [
+                "Information Security",
+                "Java",
+                "Management",
+                "Information Systems",
+                "MBA - Principles in Information Systems",
+                "Policy, Ethics and Legal Apects of Informaion Assurance"
+            ],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [
+                "Ph.D. in IT (Dissertation in Information Security) from George Mason University",
+                "VA M.S. (Mathematics)",
+                "George Mason University, VA",
+                "B.A. in Mathematics and Teaching Certified",
+                "Millersville Univ PA"
+            ],
+            "email": "rgoel@howard.edu",
+            "id": "rgoel",
+            "name": "Rajni Goel Ph.D. ",
+            "phone": "202-806-1649",
+            "role": "Professor & Fulbright Scholar",
+            "room": "Room 443",
+            "selected_research": [
+                "Experiential Student Lab",
+                "Public-Private-Social Approch to CyberSecurity"
+            ],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [
+                "Cross-cultural consumer behavior",
+                "E-marketing"
+            ],
+            "awards": [
+                "Global use and access of social networking websites: a national culture perspective published in Journal of Research in Interactive Marketing selected by the journal's editorial team as a Highly Commended paper in the 2015 Emerald Literati Network Awards for Excellence.",
+                "Social Networking Sites: An Exploration of the Effect of National Cultural Dimensions on Country Adoption Rates was short-listed as one of few candidates to win the ICE-B 2015 conference best paper award. ",
+                "Summer Research Stipend Award, School of Business, Howard University, Summer, 2007-2010, 2012 -2015"
+            ],
+            "biography": "Wen Gong is an associate professor of marketing in School of Business at Howard University. Her research interests are in the areas of Internet marketing and advertising, social media marketing, cross-cultural consumer behavior, and international marketing. Dr. Gong has published in many journals including Journal of Advertising Research, International Marketing Review, Journal of Macro Marketing, Journal of Asia-Pacific Marketing and Logistics, International Journal of Internet Marketing and Advertising, Journal of Asia Business Studies, International Journal of Electronic Business, Journal of Research in Interactive Marketing, International Journal of Technology Marketing, Business Horizons, Cross-culture Management: An International Journal, and Journal of American Academy of Business. Dr. Gong has attended and presented papers in numerous national and international academic conferences including American Marketing Association, American Academy of Advertising Asia-Pacific Conference, World Marketing Congress, European Advertising Academy International Conference on Research in Advertising, Academy of Marketing Science Cultural Perspectives on Marketing Conference, World Business Congress, International Business and Economy Conference, and Administrative Sciences Association of Canada Conference.  Dr. Gong holds a bachelor's degree from Beijing University of Posts and Telecommunications, a master's degree from the University of International Business and Economics, and a doctorate from George Washington University. Her email address is: gong.gw@gmail.com.",
+            "courses_taught": [
+                "Principles of Marketing",
+                "Marketing Management (Graduate)",
+                "Marketing Research (Undergraduate)",
+                "Marketing Research (Graduate)",
+                "Consumer Behavior "
+            ],
+            "department": "Marketing",
+            "education": [
+                "Ph.D. Marketing, The George Washington University, 2001"
+            ],
+            "email": "wgong@howard.edu",
+            "id": "wgong",
+            "name": "Wen Gong Ph.D. ",
+            "office": "Tuesdays & Thursdays 11-2; Fridays 11-1 by appointment only",
+            "phone": "(202) 806-1557",
+            "role": "Associate Professor",
+            "room": "Room 326",
+            "selected_research": [
+                "Stump, Rodney L. and Wen Gong (2017), Social Networking Sites: An Exploration of the Effect of National Cultural Dimensions on Country Adoption Rates\", International Journal of Electronic Business, v13n2/3, p117-142. ",
+                "Gong, Wen and Rodney L. Stump (2016), Cultural Values Reflected in the Adoption of Social Networking Sites\", International Journal of Technology Marketing, v11n3, p 360-378.",
+                "Gong, Wen, Rodney L. Stump and Zhan G. Li (2014), Global Use and Access of Social Networking Websites: A National Culture Perspective,\" Journal of Research in Interactive Marketing, v8n1, p37-55. ",
+                "Gong, Wen (2013), Factors Influencing Perceptions toward Social Networking Websites in China,\" International Journal of Internet Marketing and Advertising, v8n1, p54 - 68. ",
+                "Gong, Wen, Rodney L. Stump and Lynda M. Maddox (2013), Factors Influencing Consumers' Online Shopping in China,\" Journal of Asia Business Studies, v7n3, p214-230. ",
+                "Gong, Wen, Lynda M. Maddox and Rodney L. Stump (2012), Attitudes toward Online Shopping: A Comparison of Online Consumers in China and the US,\" International Journal of E-Business Development, v2n1, pp. 28-35.",
+                "Stump, L. Rodney, Wen Gong and Cristian Chelariu (2010), National Culture and National Adoption and Use of Mobile Telephony,\" International Journal of Electronic Business, v8n4/5, pp. 433-455."
+            ],
+            "tags": "marketing"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Maru Etta-Nkwelle is an Associate Professor of Finance, International Business and Economics at the Howard University School of Business. She holds a Ph.D. in Economics from Howard University, a Master of Arts degree in Development Banking from the American University and a BA in Finance from the University of the District of Columbia. As an International Business Professor, she wrote and was awarded a couple of multi-year grants and served as Project Manager for the U.S. Department of Education\u2019s Business and International Education grant program. Apart from teaching, she has also served as the Chief Financial Officer for the Alliance Health Benefit Plan (2002-2004) and as a Financial Analyst for the U.S. Agency for International Development\u2019s Africa Venture Capital Project (1992-1995).",
+            "courses_taught": [],
+            "department": "Finance and International Business",
+            "education": [],
+            "email": "metta@howard.edu",
+            "id": "metta",
+            "name": "Marumbok Etta-Nkwelle Ph.D ",
+            "phone": "(202) 806-1598",
+            "role": "Associate Professor",
+            "room": "Room 521",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "",
+            "courses_taught": [],
+            "department": "Accounting",
+            "education": [],
+            "email": "ratna.dey@howard.edu",
+            "id": "rdey",
+            "name": "R. Mithu Dey, PhD, CPA ",
+            "phone": "(202) 806-1500",
+            "role": "Associate Professor",
+            "room": "Room 347",
+            "selected_research": [],
+            "tags": "accounting"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Under the distinguished leadership of Barron H. Harvey, Ph.D. the Howard University School of Business continues to make strides in its ongoing quest to maintain excellence in its academic programs. For the 2nd Year in a row, the School's Undergraduate Program was ranked among the Top 75 US programs in Business Week's 2008 Best Undergraduate B-Schools. It was among the top 20 schools in the Mid-Atlantic Region of the United States, 1 of 4 in the Washington DC Metro-Area and the only Historically Black University to be included in the ranking. In the September 2007 Wall Street Journal/Harris Interactive Survey of corporate recruiters on business schools, the School's MBA program maintained its ranking as one of the top three national institutions for hiring minority graduates. Additionally, the 2007 Princeton Review, again ranked the MBA Program among the top business schools in the nation, #1 ranking for the Greatest Opportunity for Minority Students and #5 ranking for Most Competitive Students. The School is also ranked as one of the top 70 undergraduate business programs in the nation by Businessweek magazine.<br> <br> In addition to the prestigious position as Dean of the School of Business, Dr. Harvey is a tenured member of the faculty and has served as a full professor in the Department of Accounting for over 18 years. In fall 2007, Dr. Harvey became the first endowed professor in the School of Business when he was named Frank Ross/KPMG Endowed Professor in Accounting. He has twice been named Educator of the Year by the National Association of Black Accountants Inc. (NABA). During his academic career he has held numerous other administrative positions at the University, including Director of Graduate Programs, Departmental Chairperson, and Interim Dean. Additionally he held other faculty appointments at the University of Nebraska, University of Miami and Georgetown University. He has lectured in various areas of management education including, Organizational Behavior, Management, and Accounting. As chairperson of the Department of Accounting, Dr. Harvey spearheaded the accreditation of the School's accounting program. This was a significant achievement giving the Howard University School of Business the distinction of being the first AACSB accredited accounting program in the Washington D.C. Metropolitan area. Most recently, under his leadership the School of Business was able to obtain reaffirmation of all its programs including separate reaffirmation of the Accounting program. During his tenure as Dean, the School of Business has developed partnerships with Universities throughout the Global Community including in Africa, the Caribbean, Asia and Europe. The School continues to recruit heavily from the Caribbean and Africa with about 40% enrollment of international students in its MBA program.<br> <br> Dr. Harvey understands that business must be conducted globally and the School's curriculum has been expanded to embrace this international perspective. Dr. Harvey has held offices and memberships in numerous professional organizations including, the American Institute of Certified Public Accountants, American Assembly Collegiate School of Business, American Accounting Association, Administrators of Accounting Program Group, Accounting Educational Change Commission, National Association of Black Accountants, and D.C. Board of Accountancy. He is also founder of several organizations, including the National HBCU Business Dean's Roundtable, Washington Consortium School of Business Research Forum and the African Venture Capital Association.Dr. Harvey's scholarly works include more than 20 published articles and presentations, and he has been a main speaker at major national and international events. He is an internationally renowned business management training specialist, and has appeared on numerous television programs to discuss business issues and cultural diversity. He has also been interviewed by network television regarding major US and global business news. In 1981, Dr. Harvey founded Harvey & Company, a consulting firm that continues to provide management and financial services to domestic and international clients in Africa and the Caribbean. Dr. Harvey earned an MBA degree in Accounting in 1975 and a Ph.D. degree in Organizational Behavior and Management Theory in 1977, both degrees from the University of Nebraska-Lincoln. He is a Certified Public Accountant, holding certifications with the District of Columbia and the State of Maryland. Currently, Dr. Harvey serves on numerous boards and committees including the HBCU Business Dean's Roundtable, Maintenance of Accreditation Committee of AACSB International, MDL Capital Management, Institute of Supply Management, The Washington Campus, Greater Southeast Health Care System, K.I.D.S. and Hope and A Future, Inc. He previously served as Chairman of the Board for the Fort Washington Hospital and was a member of the Research Committee of the Graduate Management Admission Council.",
+            "courses_taught": [],
+            "department": "Accounting",
+            "education": [],
+            "email": "",
+            "id": "bharvey",
+            "name": "Barron H. Harvey Ph.D.",
+            "phone": "",
+            "role": "Dean / Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "accounting administration"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Kamal Nayan Agarwal joined the Department of Information Systems & Decision Sciences in 2001, after serving as MIS Manager at Cornet Technology, Inc., Springfield, VA, Director at Rockman Cycle Industry of Hero Group, India.<br> <br> His primary research areas of interest include: Information Systems, Network and Internet Security, Web Security, Information Assurance, E-Commerce and E-Business, and other related areas in Information Systems. Along with his research papers, Agarwal has also published a book on Information Systems, and has delivered a key note address on Information Security at the INFOTECH, organized by the University of Mauritius and National Computer Board.<br> <br> He has taught: Network/Internet Security Management, E-Commerce, Data and Network Communications, and Management Information Systems (Graduate).<br> <br> Agarwal holds a Ph.D. in Business Administration qualified in Information Systems, MS in Philosophy in Business Administration from Himachal Pradesh University, Shimla, India, MS in Computer Systems Management from the University of Maryland University College, MD, MBA in Business Administration and Computer Systems Management, BBA in Business Management from Banaras Hindu University, India, Diploma in Computer Science from I.I.C.M., Ahemdabad, India, along with successfully completing a Professional MCSE Training Program.",
+            "courses_taught": [],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [],
+            "email": "",
+            "id": "kagarwal",
+            "name": "Kamal Nayan Agarwal Ph.D.",
+            "phone": "",
+            "role": "Associate Professor",
+            "room": "",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [
+                "Consumer Behavior - Understanding Blacks in the Marketplace",
+                "Consumer Behavior - Understanding Millenials in the Marketplace",
+                "Multicultural Advertising"
+            ],
+            "awards": [
+                ""
+            ],
+            "biography": "Dr. Yuvay Jeanine Meyers is currently on faculty at Howard University's School of Business in the department of Marketing. Dr. Meyers graduated with honors from HowardUniversity with a Bachelors degree in International Business Marketing and then went on to American University to obtain a Masters in Public Communications. Before returning to graduate school, she worked in advertising for a couple of years with clients such as the American Red Cross and BellSouth. Dr. Meyers completed her Ph.D. in Advertising at the University of Texas at Austin. Currently, she is a tenure track Assistant Professor of Marketing. Her research interests focus on representation of Blacks in advertising and their consumer behavior in the marketplace.",
+            "courses_taught": [
+                "Marketing Communications",
+                "Consumer Behavior",
+                "Brand Management"
+            ],
+            "department": "Marketing",
+            "education": [
+                "BBA , International Business Marketing, Howard University, Washington DC, 2003",
+                "MA , Strategic Communication, American University, Washington DC, 2004",
+                "Ph.D. , Advertising, The University of Texas, Austin, Texas, 2008"
+            ],
+            "email": "yferguson@howard.edu",
+            "id": "yferguson",
+            "name": "Yuvay Meyers Ferguson, Ph.D.",
+            "office": "Wednesdays 10 - 4",
+            "phone": "(202) 806-1555",
+            "role": "Associate Professor and Department Chair",
+            "room": "Room 335",
+            "selected_research": [
+                "Morgan, Allison, Yuvay Meyers Ferguson and Eileen Trauth (2015), \"Consumer Demographics and Internet Based Health Information Search in the United States: The Intersectionality of Gender, Race, and Class,\u201d International Journal of E-Health and Medical Communications, 6(1), 58-72, January-March 2015",
+                "Oliver, Sheryl C., Rochelle L. Ford, Ph.D., and Yuvay J. Meyers, (2014). Corporate Social Responsibility: Ensuring Supplier Diversity in the Advertising, Business Studies JournaL, Vol.6 pp. 121 - 130",
+                "Guillaume D. Johnson, Yuvay J. Meyers, Jerome D. Williams (2013). Immigrants Versus Nationals: When an Intercultural Service Encounter Failure Turns to Verbal Confrontation. Journal of Public Policy & Marketing: Vol. 32, No. special issue, pp. 38-47.",
+                "Way, Danielle and Yuvay Jeanine Meyers (2013), \u201cUncertainty and Risk: Purchasing and Acquiring Goods for Newly Adopted Children\", Consumption Markets and Culture Vol. 14 No. 1. , pp.79 - 88",
+                "Meyers, Yuvay Jeanine and Allison J. Morgan (2013), \u201cTargeted Marketing and the African-American Millennial Consumers\", Journal of Research in Interactive Marketing. Vol. 7 No. 1, pp. 6-17"
+            ],
+            "tags": "marketing chair"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. William Brent joined the Department of Finance, International Business and Insurance in 1990, after serving as Controller at the National Naval Medical Center, U.S. Navy, Financial Planner at Georgetown University Hospital and Blue Cross Blue Shield of the National Capital Region, and Faculty Mentor at Walden University. His primary research areas of interest include: Merger and Acquisitions, Capital Structure, and Corporate Finance Case Studies. Brent has received several awards and distinctions including Professor of the year, 1997, 1999, and 2002 at Howard University School of Business. He has taught: Principles of Finance, Finance Theory, Financial Management, Financial Policy & Decision-making, Advanced Corporate Finance, and Financial Strategy.<br><br> Dr. Brent has served as Associate Editor for Journal of Finance Case Study, International Quarterly Journal of Finance, Journal of Commercial Banking and Finance, and Journal of the International Academy for Case Studies. He holds memberships in the Health Care Financial Management Association, the American Finance Association, the    Financial Management Association, and the American Association of Individual Investors. He is also Principal Investigator for the Fat Pockets study of financial literacy sponsored by the United Negro College Fund (Special Programs) office.<br><br> Dr. Brent holds a DBA in Finance from Nova University, an MBA in Finance and Investment and a BS in Health Care Administration from George Washington University, Washington, DC.",
+            "courses_taught": [],
+            "department": "Finance & International Business",
+            "education": [],
+            "email": "wbrent@howard.edu",
+            "id": "wbrent",
+            "name": "William Brent Ph.D. ",
+            "phone": "(202) 806-1632",
+            "role": "Professor",
+            "room": "Room 522",
+            "selected_research": [],
+            "tags": "finance"
+        },
+        {
+            "areas_of_expertise": [
+                "Human Information Behavior",
+                "Diversity in the IT workforce",
+                "HCI/UX",
+                "Health Informatics",
+                "Individual Differences"
+            ],
+            "biography": "Dr. Allison J. Bryant is an Associate Professor and the Chair of the Information Systems and Supply Chain Management department at the Howard University School of Business. She is one of only 50 African American Female Information Systems Business School Professors in the entire country. <br><br> Her research focuses on online health information, human information searching behavior, diversity of the information technology workforce, and the socio-cultural impact of technology. She has published articles on the impact of individual differences on user behavior, diversity in the global workplace, information searching behavior, and gender and information technology with specific focus on social networks and work-life balance among women. She has received grants from Facebook, The National Science Foundation, and the GM Foundation.  She continues to coordinate technology initiatives including the annual #HUHACKS Hackathon at the School of Business. She has a true passion for teaching and for students, and loves nothing more than to be in the classroom.  <br><br>She was formerly employed as a technology consultant at Accenture and as a Usability Engineer at the United States Census Bureau. She is a member of the KPMG PhD Project, the Association for Computing Machinery, and the Association for Information Systems.",
+            "courses_taught": [
+                "Human-Computer Interaction/User Experience",
+                "Introduction to eCommerce/Digital Business",
+                "Management Information Systems",
+                "Introduction to Software Design"
+            ],
+            "department": "Information Systems & Supply Chain Management",
+            "education": [
+                "Ph.D., Information Sciences and Technology, The Pennsylvania State University, University Park, PA, 2008",
+                "B.B.A., Computer Information Systems & Analysis, Howard University, Washington, DC, 2001 "
+            ],
+            "email": "aj_morgan@howard.edu",
+            "id": "abryant",
+            "name": "Allison J. Bryant Ph.D. ",
+            "phone": "202-806-1605",
+            "role": "Associate Professor / Department Chair",
+            "room": "",
+            "selected_research": [
+                "Morgan, A. (2016). Identity and the Health Information Consumer: The Case for Intersectionality.  Health Systems Journal, Vol 5, No. 1, pp. 1-5.",
+                "Morgan, A., Meyers, Y., and Trauth, E. (2015).  \"Consumer demographics and Internet Based Health Information Search in the United States: The Intersectionality of Gender, Race, and Class.\" International Journal of E-Health and Medical Communications, Vol 6, No. 1, pp. 58-72.",
+                "Morgan, A. and Trauth, E. (2013). \"Socio Economic Influences on Health Information Searching in the United States:  The Case of Diabetes\". Information, Technology and People, Vol. 26 (4), pp. 324-346.",
+                "Meyers, Y. and Morgan, A. (2013). \"Targeted Marketing and African-American Millennial Consumers.\" Journal of Research in Interactive Marketing, Vol. 7, No.1, pp. 6- 17.",
+                "Kvasny, L., Trauth, E.M. and Morgan, A. (2009). \"Power Relations and Information Technology:  The Intersectionality of Gender, Race and Class.\" Journal of Information, Communication and Ethics in Society. Vol.7, No. 2/3, pp. 96-118."
+            ],
+            "tags": "infosys chair"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Dr. Narendra K. Rustagi is director of the Center for Global Business Studies in the School of Business. He is also a tenured professor and has been teaching in the department since 1987. He was a co-principal investigator for a grant in the year 2000 and served as a campus coordinator for implementing the grant to develop and teach four programs online, and served as director of the online MBA in e-commerce. In July 2001, Dr. Rustagi was a member of the team to review programs of the Kogi State University, Nigeria, to propose changes to bring the curriculum to international standards. He also helped University of Mauritius in the development of their now successful online business program. He has worked with several institutions internationally on issues related to the delivery of education including the role of information technology and mentoring in developing quality programs. <br><br> As director of the Center for Global Business Studies, his goal is to increase the global perspective of students by immersion in international cultures and global business concepts, build alliances with overseas institutions to increase opportunities for students and faculty, develop international executive program and training programs especially for small businesses in the community, and explore grant opportunities and funding opportunities to support the activities of the center.He is executive director of the International Educators Group, www.intledgroup.org, an association dedicated to help close the gap in the quality of higher education, recognizing the role of various factors including information technology and mentoring. IEG also serves as a source for dissemination of ideas and research for improving quality of education and the efficiency of content delivery. He is also editor in chief of the Journal of Innovative Education Strategies and managing editor of the Washington Business Research Journal.",
+            "courses_taught": [],
+            "department": "Information Systems and Supply Chain Management",
+            "education": [],
+            "email": "nrustagi@howard.edu",
+            "id": "nrustagi",
+            "name": "Narendra K. Rustagi PhD ",
+            "phone": "202-806-1606",
+            "role": "Professor",
+            "room": "Room 441",
+            "selected_research": [],
+            "tags": "infosys"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "Prior to his coming to the accounting department, Dr. Little served as Director of Internal Audit at Howard University and Howard University Hospital. Before coming to Howard, Dr. Little served in a number of senior-level federal government positions, including the Special Assistant to NASA\u2019s Inspector General, the Director for NASA\u2019s Office of Inspector General\u2019s Administrative and Operational Reviews, the Acting Assistant Inspector General for Auditing, the Deputy Assistant Inspector General for Auditing, the Director of Internal Audit for the Bureau of Engraving and Printing, and the Director of Internal for the U.S. Mint. Dr. Little led auditors who performed reviews and investigations of University\u2019s, University Hospital\u2019s, large federal governments\u2019, and federal contractors\u2019 accounting and financial operations, information systems, and management procedures. His offices also conducted special investigations and made recommendations for improved financial reporting, internal controls, operating procedures, information systems and risk management.<br><br> Dr. Little is a certified public accountant and certified government financial manager. He held the rank of adjunct associate professor of accounting at a local university and has served on boards and committees of local and national organizations. Dr. Little is a graduate of the Federal Executive Institute and Harvard University\u2019s Strategic Public Sector Negotiation Program. His research interests are the operational aspects of federal inspector general organizations, comparative public and private peer review processes and results, internal auditing processes, and internal audit committee operations (governance).",
+            "courses_taught": [],
+            "department": "Accounting",
+            "education": [],
+            "email": "clittle@howard.edu",
+            "id": "clittle",
+            "name": "Carroll S. Little, DPA, CPA, CGFM",
+            "phone": "202-806-1565",
+            "role": "Instructor / Department Chair",
+            "room": "Room 522",
+            "selected_research": [],
+            "tags": "accounting chair"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": " Dr. Rayshad A. Holmes was recently appointed Director of the Division of Workforce Development for the Assistant Secretary of Preparedness and Response at the Department of Health and Human Services. In this role, Rayshad serves as the principal advisor of all human capital issues.<br> <br> Prior to joining the Department, Dr. Holmes served as VA's Human Capital Officer at the Office of Personnel Management. Dr. Holmes was responsible for managing VA's Strategic Management of Human Capital scorecard within the President's Management Agenda. Dr. Holmes played a key role in VA's promotion to Green in status and progress. Dr. Holmes has had the privilege of working for Accenture, LLP as a Human Capital Consultant. In this role Dr. Holmes actively engaged in several organizational design and training design and delivery projects for Fortune 500 clients. Dr. Holmes also contributed to the firm's internal growth by mentoring junior consultants and analysts and regularly recruiting on the firm's behalf.<br> <br> Dr. Holmes graduated from Georgetown University with a Bachelors of Science Degree in Business Administration and Human Resources Management. Before completing studies at Georgetown, Dr. Holmes was named a Patrick Healy Fellow. Dr. Holmes earned his Ph.D. in Business from George Washington University.<br> <br> Dr. Holmes was inducted into Beta Gamma Sigma. Beta Gamma Sigma is the business school equivalent of Phi Beta Kappa and represents the highest academic distinction awarded to graduates.<br> <br> Dr. Holmes is an adjunct professor at Howard University where he teaches courses in management, leadership and organizational behavior at the graduate and undergraduate level. Dr. Holmes also serves as core faculty for Executive MBA program. Dr. Holmes has served as a trustee at Greater Mount Calvary Holy Church, board member for Susie C. Owens Enterprises and is chief executive officer of WQC, Inc., a 501c3 organization purposed to help teens master financial management. Dr. Holmes is the author of two books and several academic publications. Dr. Holmes is also a member of Kappa Alpha Psi Fraternity, Inc.<br> <br> Dr. Holmes' research interests focus on emotional intelligence, management education, leadership, strategic human capital and financial literacy.<br> <br> When not in the office, classroom or boardroom, Dr. Holmes enjoys reading, traveling, mentoring and golfing.",
+            "courses_taught": [],
+            "department": "Management",
+            "education": [],
+            "email": "rayshad.holmes@howard.edu.com",
+            "id": "rholmes",
+            "name": "Rayshad A. Holmes Ph.D.",
+            "phone": "(202) 227-1911",
+            "role": "Adjunct Professor",
+            "room": "Room 500",
+            "selected_research": [],
+            "tags": "management"
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "",
+            "courses_taught": [],
+            "department": "",
+            "education": [],
+            "email": "",
+            "id": "mogbolu",
+            "name": "Michael N. Ogbolu Ph.D. ",
+            "phone": "",
+            "role": "Associate Professor",
+            "room": "",
+            "selected_research": []
+        },
+        {
+            "areas_of_expertise": [],
+            "biography": "  Jean Wells, a licensed CPA and attorney, is an Assistant Professor at Howard University School of Business where she teaches tax and accounting courses, including Accounting Principles I &amp; II, Business Law, Tax Principles, Management Accounting and Legal Environment . Ms. Wells is the faculty advisor for Beta Alpha Psi, the accounting honor society, and the supervising faculty and program coordinator for the Volunteer Income Tax Assistance program. Ms. Wells earned a Bachelor's in Business Administration (B.B.A.) Accounting from Howard University and a Juris Doctorate from George Washington University. In 2007, Ms. Wells was the first Professor in Residence in KPMG's Washington National Tax Legislative and Regulatory Services Group where she conducted tax research and tracked legislative and regulatory tax developments during a six-month residency program. Before joining the faculty full-time at Howard University, Ms. Wells was a manager in Deloitte's Washington National Tax Policy Services Group. Ms. Wells has also taught graduate level tax classes at the University of Maryland University College and Bowie State University, and undergraduate classes at Prince Georges Community College. Ms. Wells was featured in Black Enterprise magazine as a Tax Financial All-Star and has been quoted in tax articles appearing on blackenterprise.com. Ms. Wells has authored several articles, some of which have appeared in the Journal of Accountancy and The CPA Journal. Ms. Wells revises book chapters for the BNA Tax Practice Series. She has held membership in the AICPA, MACPA, American Bar Association, American Tax Association, and American Association of Attorney-CPA and has served on committees in some of these organizations.<br>",
+            "courses_taught": [],
+            "department": "Accounting",
+            "education": [],
+            "email": "jean.wells@howard.edu",
+            "id": "jwells",
+            "name": "Jean Wells, Esq., CPA",
+            "phone": "(202) 806-1564",
+            "role": "Associate Professor & Interim Chair of Accounting",
+            "room": "",
+            "selected_research": [],
+            "tags": "accounting"
+        }
+    ]
+}
